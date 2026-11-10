@@ -1,6 +1,6 @@
 # Trademark Guidelines
 
-## Overview
+![Alternative description of the image](./assets/TSFS-LOGO.png) ## Overview
 
 While the source code for this project is released under an open-source license (see [LICENSE](LICENSE)), the software license does **not** grant any rights or permission to use the project's trademarks, service marks, logos, or brand identity.
 
