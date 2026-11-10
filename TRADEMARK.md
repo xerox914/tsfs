@@ -4,6 +4,7 @@
 
 While the source code for this project is released under an open-source license (see [LICENSE](LICENSE)), the software license does **not** grant any rights or permission to use the project's trademarks, service marks, logos, or brand identity.
 
+**Note on Software Licensing:** The source code in this repository is licensed under the [MIT License](LICENSE). The MIT License covers the code and documentation, but does **not** grant any trademark rights to the project name, logo, or brand assets.
 This document outlines the policy for using the name and branding associated with this project.
 
 ## Protected Marks
