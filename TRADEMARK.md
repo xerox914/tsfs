@@ -14,7 +14,7 @@ This document outlines the policy for using the name and branding associated wit
 ## Protected Marks
 
 The trademarks covered by this policy include:
-* The project name: **TRAILSPACE FILE SERVICE** also known as 'TFSF'
+* The project name: **TRAILSPACE FILE SERVICE** also known as 'TSFS'
 * The project logo, banner, icons, and official graphics
 * Any names of sub-projects or associated tools maintained in this repository
 
