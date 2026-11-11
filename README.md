@@ -1,7 +1,7 @@
 # TSFS
 
 <p align="center">
-  <img src="./assets/TSFS-BANNER-OUTLINE.jpg" alt="Project Banner" width="80%">
+  <img src="./assets/LOGO_T.png" alt="Project Banner" width="50%">
 </p>
 
 TRAILSPACE File Service 
